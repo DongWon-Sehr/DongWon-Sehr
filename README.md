@@ -1,6 +1,6 @@
 # 서동원 (DongWon Sehr)
 
-### 유쾌하고 즐거운 서비스를 만드는 개발자입니다.
+### 개발 잘하고 싶은 개발자
 
 - Email: dongwon.sehr@gmail.com
 - GitHub: https://github.com/DongWon-Sehr
