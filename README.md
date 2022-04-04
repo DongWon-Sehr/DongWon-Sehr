@@ -1,4 +1,4 @@
-# 서동원 (DongWon Sehr)
+# Hi, I'm DongWon Sehr <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 ### 개발 잘하고 싶은 개발자
 
