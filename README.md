@@ -1,17 +1,22 @@
 # Hi, I'm DongWon Sehr <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <table>
-  <tr>
-    <td valign="center">
-      👨🏻‍💻 I am currently working at the FAST media platform **NEW ID**.<br>
-      🌱 I am currently learning **React, Node.js** and also interested in **Web Development**.<br>
-      🎯 My Goal is to Contribute to as many **open source project** as possible.<br>
-      ✨ I love to learn new languages and create different types of **contents**.<br>
-    </td>
-    <td>
-      <a href="https://api.daily.dev/devcards/40bb2c347aa84dbe9a0a035de01caf95.png?r=jsf" width="300" alt="Mr. Sehr's Dev Card"/></a>
-    </td>
-  </tr>
+<tr>
+<td valign="center">
+      
+👨🏻‍💻 I am currently working at the FAST media platform **NEW ID**.
+
+🌱 I am currently learning **React, Node.js** and also interested in **Web Development**.
+
+🎯 My Goal is to Contribute to as many **open source project** as possible.
+
+✨ I love to learn new languages and create different types of **contents**.
+      
+</td>
+<td>
+<a href="https://app.daily.dev/smarttuna"><img src="https://api.daily.dev/devcards/40bb2c347aa84dbe9a0a035de01caf95.png?r=loz" width="400" alt="DongWon Sehr's Dev Card"></a>
+</td>
+</tr>
 </table>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DongWon-Sehr&theme=dracula&hide_border=true)
@@ -22,18 +27,15 @@
 
 ## Technologies⚙️
 ### Languages✍🏻
-<img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="30px" alt="JavaScript">
-<img src="https://seeklogo.com/images/P/php-logo-DC4A01DBB6-seeklogo.com.png" width="30px" alt="php"> <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="30px" alt="Python">
+<img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="30px" alt="JavaScript">&nbsp;&nbsp;&nbsp;<img src="https://seeklogo.com/images/P/php-logo-DC4A01DBB6-seeklogo.com.png" width="30px" alt="php">&nbsp;&nbsp;&nbsp;<img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="30px" alt="Python">
 
 ### DevOps & Cloud Tools🛠
-<img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" width="30px" alt="VSCode">
-<img src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" width="30px" alt="Git">
-<img src="https://cdn-icons.flaticon.com/png/128/3291/premium/3291667.png?token=exp=1649042655~hmac=3fe1995ea1d53e60bd88b4ca84b56050" width="30px" alt="GitHub">
-<img src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png" width="30px" alt="GitLab">
-<img src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" width="30px" alt="AWS">
-<img src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" width="30px" alt="GCP">
+<img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" width="30px" alt="VSCode">&nbsp;&nbsp;&nbsp;<img src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" width="30px" alt="Git">&nbsp;&nbsp;<img src="https://cdn-icons.flaticon.com/png/128/3291/premium/3291667.png?token=exp=1649042655~hmac=3fe1995ea1d53e60bd88b4ca84b56050" width="30px" alt="GitHub">&nbsp;&nbsp;&nbsp;<img src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png" width="30px" alt="GitLab">&nbsp;&nbsp;&nbsp;<img src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" width="30px" alt="AWS">&nbsp;&nbsp;&nbsp;<img src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" width="30px" alt="GCP">
 
 ## My Experiences💻
+- Currently working at the FAST media platform [NEW ID](https://www.its-newid.com/)</a>.
+- Worked at the Web Agency [Wylie](https://wylie.co.kr/)</a>.
+- More about me? Check my [resume](https://github.com/DongWon-Sehr/resume)</a>.
 
 ## Stats📈
 <p align="center">
