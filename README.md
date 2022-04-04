@@ -6,7 +6,7 @@
       
 👨🏻‍💻 I am currently working at the FAST media platform **NEW ID**.
 
-🌱 I am currently learning **React, Node.js** and also interested in **Web Development**.
+🌱 I am currently learning **React, Node.js** and also interested in **Cloud Platform**.
 
 🎯 My Goal is to Contribute to as many **open source project** as possible.
 
