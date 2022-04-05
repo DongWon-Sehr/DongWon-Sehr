@@ -22,8 +22,8 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DongWon-Sehr&theme=dracula&hide_border=true)
 
 ## Connect With Me📮
-<a href="https://www.linkedin.com/in/dongwon-sehr-294679177/"><img src="https://cdn-icons.flaticon.com/png/128/3536/premium/3536505.png?token=exp=1649042245~hmac=748ac66d3e91e6888deaa226a942f923" width="30px" alt="LinkedIn"></a>
-<a href="https://github.com/DongWon-Sehr"><img src="https://cdn-icons.flaticon.com/png/128/3291/premium/3291667.png?token=exp=1649042655~hmac=3fe1995ea1d53e60bd88b4ca84b56050" width="30px" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/dongwon-sehr-294679177/" target="_blank"><img src="https://cdn-icons.flaticon.com/png/128/3536/premium/3536505.png?token=exp=1649042245~hmac=748ac66d3e91e6888deaa226a942f923" width="30px" alt="LinkedIn"></a>
+<a href="https://github.com/DongWon-Sehr" target="_blank"><img src="https://cdn-icons.flaticon.com/png/128/3291/premium/3291667.png?token=exp=1649042655~hmac=3fe1995ea1d53e60bd88b4ca84b56050" width="30px" alt="GitHub"></a>
 
 ## Technologies⚙️
 ### Languages✍🏻
@@ -33,9 +33,9 @@
 <img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" width="30px" alt="VSCode">&nbsp;&nbsp;&nbsp;<img src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" width="30px" alt="Git">&nbsp;&nbsp;<img src="https://cdn-icons.flaticon.com/png/128/3291/premium/3291667.png?token=exp=1649042655~hmac=3fe1995ea1d53e60bd88b4ca84b56050" width="30px" alt="GitHub">&nbsp;&nbsp;&nbsp;<img src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png" width="30px" alt="GitLab">&nbsp;&nbsp;&nbsp;<img src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" width="30px" alt="AWS">&nbsp;&nbsp;&nbsp;<img src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" width="30px" alt="GCP">
 
 ## My Experiences💻
-- Currently working at the FAST media platform [NEW ID](https://www.its-newid.com/)</a>.
-- Worked at the Web Agency [Wylie](https://wylie.co.kr/)</a>.
-- More about me? Check my [resume](https://github.com/DongWon-Sehr/resume)</a>.
+- Currently working at the FAST media platform [NEW ID](https://www.its-newid.com/).
+- Worked at the Web Agency [Wylie](https://wylie.co.kr/).
+- More about me? Check my [resume](https://github.com/DongWon-Sehr/resume).
 
 ## Stats📈
 <p align="center">
