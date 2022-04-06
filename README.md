@@ -27,7 +27,7 @@
 
 ## Technologies⚙️
 ### Languages✍🏻
-<img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="30px" alt="JavaScript">&nbsp;&nbsp;&nbsp;<img src="https://seeklogo.com/images/P/php-logo-DC4A01DBB6-seeklogo.com.png" width="30px" alt="php">&nbsp;&nbsp;&nbsp;<img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="30px" alt="Python">
+<img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="30px" alt="JavaScript">&nbsp;&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-128/php-2752101-2284918.png" width="30px" alt="PHP">&nbsp;&nbsp;&nbsp;<img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="30px" alt="Python">
 
 ### DevOps & Cloud Tools🛠
 <img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" width="30px" alt="VSCode">&nbsp;&nbsp;&nbsp;<img src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" width="30px" alt="Git">&nbsp;&nbsp;<img src="https://cdn-icons.flaticon.com/png/128/3291/premium/3291667.png?token=exp=1649042655~hmac=3fe1995ea1d53e60bd88b4ca84b56050" width="30px" alt="GitHub">&nbsp;&nbsp;&nbsp;<img src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png" width="30px" alt="GitLab">&nbsp;&nbsp;&nbsp;<img src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" width="30px" alt="AWS">&nbsp;&nbsp;&nbsp;<img src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" width="30px" alt="GCP">
