@@ -14,7 +14,8 @@
       
 </td>
 <td>
-<a href="https://app.daily.dev/smarttuna"><img src="https://api.daily.dev/devcards/40bb2c347aa84dbe9a0a035de01caf95.png?r=loz" width="400" alt="DongWon Sehr's Dev Card"></a>
+<a href="https://app.daily.dev/smarttuna"><img src="https://api.daily.dev/devcards/40bb2c347aa84dbe9a0a035de01caf95.png?r=g34" width="400" alt="DongWon Sehr's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/smarttuna"><img src="https://api.daily.dev/devcards/40bb2c347aa84dbe9a0a035de01caf95.png?r=loz" width="400" alt="DongWon Sehr's Dev Card"></a> -->
 </td>
 </tr>
 </table>
