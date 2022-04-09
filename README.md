@@ -24,7 +24,7 @@
 
 ## Connect With Me📮
 <a href="https://www.linkedin.com/in/dongwon-sehr-294679177/" target="_blank"><img src="https://img.shields.io/static/v1?style=plastic&logo=linkedin&label=&message=LinkedIn&color=blue" height="25px" alt="LinkedIn"></a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/DongWon-Sehr" target="_blank"><img src="https://img.shields.io/static/v1?style=plastic&logo=github&label=&message=GitHub&color=black" height="25px" alt="GitHub"></a>
 
 ## Technologies⚙️
