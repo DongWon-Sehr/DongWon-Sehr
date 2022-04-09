@@ -24,14 +24,21 @@
 
 ## Connect With Me📮
 <a href="https://www.linkedin.com/in/dongwon-sehr-294679177/" target="_blank"><img src="https://img.shields.io/static/v1?style=plastic&logo=linkedin&label=&message=LinkedIn&color=blue" height="25px" alt="LinkedIn"></a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/DongWon-Sehr" target="_blank"><img src="https://img.shields.io/static/v1?style=plastic&logo=github&label=&message=GitHub&color=black" height="25px" alt="GitHub"></a>
 
 ## Technologies⚙️
 ### Languages✍🏻
-<img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="30px" alt="JavaScript">&nbsp;&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-128/php-2752101-2284918.png" width="30px" alt="PHP">&nbsp;&nbsp;&nbsp;<img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="30px" alt="Python">
+<img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="30px" alt="JavaScript">&nbsp;&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-128/php-2752101-2284918.png" width="30px" alt="PHP">&nbsp;&nbsp;&nbsp;
+<img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="30px" alt="Python">
 
 ### DevOps & Cloud Tools🛠
-<img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" width="30px" alt="VSCode">&nbsp;&nbsp;&nbsp;<img src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" width="30px" alt="Git">&nbsp;&nbsp;<img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="30px" alt="GitHub">&nbsp;&nbsp;&nbsp;<img src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png" width="30px" alt="GitLab">&nbsp;&nbsp;&nbsp;<img src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" width="30px" alt="AWS">&nbsp;&nbsp;&nbsp;<img src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" width="30px" alt="GCP">
+<img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" width="30px" alt="VSCode">&nbsp;&nbsp;&nbsp;
+<img src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" width="30px" alt="Git">&nbsp;&nbsp;
+<img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="30px" alt="GitHub">&nbsp;&nbsp;&nbsp;
+<img src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png" width="30px" alt="GitLab">&nbsp;&nbsp;&nbsp;
+<img src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" width="30px" alt="AWS">&nbsp;&nbsp;&nbsp;
+<img src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" width="30px" alt="GCP">
 
 ## My Experiences💻
 - Currently working at the FAST media platform [NEW ID](https://www.its-newid.com/).
