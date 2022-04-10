@@ -10,7 +10,7 @@
 
 🎯 My Goal is to Contribute to as many **open source project** as possible.
 
-✨ I love to learn **new languages** and create different types of **contents**.
+✨ I love to learn **new skills** and create different types of **contents**.
       
 </td>
 <td>
