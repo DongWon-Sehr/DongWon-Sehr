@@ -43,7 +43,7 @@
 ## My Experiences💻
 - Currently working at the FAST media platform [NEW ID](https://www.its-newid.com/).
 - Worked at the Digital Service Agency [Wylie](https://wylie.co.kr/).
-- MORE ABOUT ME? Check my [resume](https://github.com/DongWon-Sehr/resume).
+- MORE ABOUT ME? Check my [RESUME](https://github.com/DongWon-Sehr/resume).
 
 ## Stats📈
 <p align="center">
