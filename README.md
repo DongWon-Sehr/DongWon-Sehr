@@ -1,4 +1,5 @@
 # Hi, I'm DongWon Sehr <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+🪂 Jump right into my ✨[RESUME](https://github.com/DongWon-Sehr/resume)
 
 <table>
 <tr>
@@ -20,8 +21,6 @@
 </tr>
 </table>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DongWon-Sehr&theme=dracula&hide_border=true)
-
 ## Connect With Me📮
 <a href="https://www.linkedin.com/in/dongwon-sehr-294679177/" target="_blank"><img src="https://img.shields.io/static/v1?style=plastic&logo=linkedin&label=&message=LinkedIn&color=blue" height="25px" alt="LinkedIn"></a>
 &nbsp;
@@ -41,11 +40,13 @@
 <img src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" width="30px" alt="GCP">
 
 ## My Experiences💻
-- Currently working at the FAST media platform [NEW ID](https://www.its-newid.com/).
-- Worked at the Digital Service Agency [Wylie](https://wylie.co.kr/).
-- MORE ABOUT ME? Check my [RESUME](https://github.com/DongWon-Sehr/resume).
+- Currently working at the FAST media platform [NEW ID](https://www.its-newid.com/)
+- Worked at the Digital Service Agency [Wylie](https://wylie.co.kr/)
+- MORE ABOUT ME? Check my ✨[RESUME](https://github.com/DongWon-Sehr/resume) 👈🏻
 
 ## Stats📈
+[![DongWon's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DongWon-Sehr&bg_color=42423d&color=ffffff&line=8cff8a&point=e8994f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DongWon-Sehr&theme=dracula&hide_border=true) -->
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=DongWon-Sehr&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="DongWon-Sehr" /> 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DongWon-Sehr&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="DongWon-Sehr" />
@@ -60,7 +61,7 @@
 - GitHub: https://github.com/DongWon-Sehr
 - linkedIn: https://www.linkedin.com/in/dongwon-sehr-294679177/
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DongWon-Sehr&theme=highcontrast&show_icons=true)
+![DongWon's github stats](https://github-readme-stats.vercel.app/api?username=DongWon-Sehr&theme=highcontrast&show_icons=true)
 
 
 **DongWon-Sehr/DongWon-Sehr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
