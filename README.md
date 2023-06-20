@@ -45,8 +45,7 @@
 - MORE ABOUT ME? Check my ✨[RESUME](https://github.com/DongWon-Sehr/resume) 👈🏻
 
 ## Stats📈
-[![DongWon's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DongWon-Sehr&bg_color=42423d&color=ffffff&line=8cff8a&point=e8994f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DongWon-Sehr&theme=dracula&hide_border=true) -->
+[![DongWon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DongWon-Sehr&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=DongWon-Sehr&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="DongWon-Sehr" /> 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DongWon-Sehr&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="DongWon-Sehr" />
