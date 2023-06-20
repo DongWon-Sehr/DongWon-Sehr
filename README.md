@@ -29,6 +29,7 @@
 ## Technologies⚙️
 ### Languages✍🏻
 <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="30px" alt="JavaScript">&nbsp;&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-128/php-2752101-2284918.png" width="30px" alt="PHP">&nbsp;&nbsp;&nbsp;
+<img src="https://seeklogo.com/images/J/java-logo-41D4155FC3-seeklogo.com.png" height="30px" alt="Java">&nbsp;&nbsp;&nbsp;
 <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="30px" alt="Python">
 
 ### DevOps & Cloud Tools🛠
