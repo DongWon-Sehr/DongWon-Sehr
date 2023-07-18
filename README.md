@@ -43,7 +43,7 @@
 ## My Experiences💻
 - Currently working at the FAST media platform [NEW ID](https://www.its-newid.com/)
 - Worked at the Digital Service Agency [Wylie](https://wylie.co.kr/)
-- MORE ABOUT ME? Check my ✨[RESUME](https://github.com/DongWon-Sehr/resume) 👈🏻
+- MORE ABOUT ME? Check out my ✨[RESUME](https://github.com/DongWon-Sehr/resume) 👈🏻
 
 ## Stats📈
 [![DongWon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DongWon-Sehr&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
